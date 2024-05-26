@@ -58,3 +58,8 @@ Repository with examples and projects using the C# Programming Language - Advanc
    ```bash
    mono Filename.exe
    ```
+
+## Language
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+</div>
